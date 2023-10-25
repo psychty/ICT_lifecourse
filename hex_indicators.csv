@@ -1,0 +1,112 @@
+Figure_ID,Hex_ID,Source,Fingertips_ID,Sex,Age,Life_course,At_ICT_level,Indicator_short_name,Indicator_label,Polarity
+Ageing well,1,OHID Fingertips,90280,,,,UTLA,ASC_social_contact,of adult social care clients aged 65+ who report as much social contact as they would like,Higher is better
+Ageing well,2,OHID Fingertips,90638,,,,UTLA,ASC_carers_social_contact,of carers who had as much social contact as they would like,Higher is better
+Ageing well,3,,,,,,UTLA,ASC_long_term_positive_qol_score,of adult social care clients on long-term support who report a positive quality of life score,Not applicable
+Ageing well,4,,,,,,UTLA,ASC_carers_positive_qol_score,of carers who report a positive quality of life score,Not applicable
+Ageing well,9,ASC Activity and Finance Report - NHS Digital,,,,,UTLA,ASC_nursing_rate,"of adult social care clients (aged 65+) receiving long term nursing support per 100,000 population",Not applicable
+Ageing well,10,ASC Activity and Finance Report - NHS Digital,,,,,UTLA,ASC_residential_rate,"of adult social care clients (aged 65+) receiving long term residential support per 100,000 population",Not applicable
+Ageing well,11,ASC Activity and Finance Report - NHS Digital,,,,,UTLA,ASC_community_rate,"of adult social care clients (aged 65+) receiving long term community support per 100,000 population",Not applicable
+Ageing well,12,ASC Activity and Finance Report - NHS Digital,,,,,UTLA,ASC_long_term_rate,"of adult social care clients (aged 65+) receiving any long term support per 100,000 population",Not applicable
+Ageing well,16,OHID Fingertips,92489,,,,LTLA,Care_home_beds,Care home beds per 100 people aged 75+ years,Not applicable
+Ageing well,17,OHID Fingertips,1194,,,,UTLA,Care_home_admissions,"Permanent admissions to residential or nursing homes per 100,000 population aged 65+ years",Not applicable
+Ageing well,18,Office for National Statistics,,,,,LTLA,Care_home_self_funders,Estimated number of self-funding care home users,Not applicable
+Ageing well,23,OHID Fingertips,92949,,,,LTLA,Demenita_recorded_diagnosis,of people aged 65+ estimated to have dementia who have received a diagnosis,Higher is better
+Ageing well,24,OHID Fingertips,22401,,,,ICT level,Emergency_admissions_falls,"emergency hospital admissions for falls rate per 100,000 population aged 65+",Higher is better
+Ageing well,25,OHID Fingertips,90584,,,,UTLA,Discharge_still_at_home,of people aged 65+ still at home 91 days after a discharge from hospital,Not applicable
+Building blocks 1,1,OHID Fingertips,93097,Persons,Working age,,LTLA,Working_age_out_of_work,People of working age on out of work benefits. ,Lower is better
+Building blocks 1,2,OHID Fingertips,93759,Persons,All ages,,ICT level,Fuel_poverty,in fuel poverty.   ,Not applicable
+Building blocks 1,3,ONS,,Persons,All ages,,LTLA,Housing_affordability_ratio,housing affordability ratio (ratio of lower 25% house prices to lower 25% gross earnings),Not applicable
+Building blocks 1,9,Department for Communities and Local Government (DCLG),,Persons,All ages,,ICT level,National_deprivation_quintile_1,of people living in the 20% most deprived areas in England,Lower is better
+Building blocks 1,10,OHID Fingertips,90630,Persons,0-19 years,Yes,LTLA,Children_living_in_poverty,of children aged 0-19 living in poverty  ,Lower is better
+Building blocks 1,11,Department for Communities and Local Government (DCLG),,Persons,60 and over,Yes,LTLA,Older_people_living_in_poverty,of older people (aged 60+) living in poverty ,Lower is better
+Building blocks 2,1,Police data (compiled by B&H Community Insight tool),,Persons,,,ICT level,Overall_crime_rate,"overall crime rate per 1,000 in the 12 months to July 2023",Lower is better
+Building blocks 2,2,Police data (compiled by B&H Community Insight tool),,Persons,,,ICT level,Violent_crime_rate,"violent crime rate per 1,000 in the 12 months to July 2023",Lower is better
+Building blocks 2,3,Police data (compiled by B&H Community Insight tool),,Persons,,,ICT level,ASB_rate,"antisocial behaviour incident rate per 1,000 in the 12 months to July 2023",Lower is better
+Building blocks 2,8,OHID Fingertips,90631,Persons,Reception age,Yes,UTLA,Good_level_development_reception,of reception age children achieving a good level of development,Higher is better
+Building blocks 2,9,OHID Fingertips,93378,Persons,15-16 year olds,Yes,UTLA,Average_attainment_8_score_16,Average Attainment 8 score at age 16,Higher is better
+Building blocks 2,10,OHID Fingertips,93381,Persons,15-16 year olds,,UTLA,Average_attainment_8_score_children_in_care,Average Attainment 8 score for children in care,Higher is better
+Building blocks 2,11,Census 2021,,Persons,,,ICT level,People_no_qualifications,of people aged 16+ with no qualifications,Lower is better
+Building blocks 2,12,Census 2021,,Persons,,Yes,ICT level,Working_age_in_employment,of people of working age in employment,Higher is better
+Building blocks 2,15,Census 2021,,Persons,,,ICT level,Population_density,People per square km (population density),Not applicable
+Building blocks 2,16,Census 2021,,Households,,,ICT level,HH_overcrowding,of households which are overcrowded,Lower is better
+Building blocks 2,17,Census 2021,,Households,,,ICT level,HH_no_central_heating,of households lack central heating,Lower is better
+Building blocks 2,18,Census 2021,,Households,,,ICT level,HH_private_rented,of households are privately renting (main type),Lower is better
+Building blocks 2,23,Census 2021,,Households,,,ICT level,HH_at_least_one_resident,households with at least one resident,Not applicable
+Building blocks 2,24,Census 2021,,Households,,,ICT level,HH_living_alone_under_66,of households comprise a person aged under 66 living alone,Not applicable
+Building blocks 2,25,Census 2021,,Households,,Yes,ICT level,HH_living_alone_over_66,of households comprise a person aged 66+ living alone,Not applicable
+Building blocks 2,26,Census 2021,,Households,,,ICT level,HH_lone_parent,of households comprise a lone parent,Not applicable
+Dying well,1,OHID Fingertips,93476,,,,ICT level,Deaths_at_home,of deaths occur at home,Not applicable
+Dying well,2,OHID Fingertips,93474,,,,ICT level,Deaths_in_hospital,of deaths occur in hospital,Not applicable
+Dying well,3,OHID Fingertips,93475,,,,ICT level,Deaths_in_care_home,of deaths occur in care home,Not applicable
+Dying well,4,OHID Fingertips,93478,,,,ICT level,Deaths_in_hospice,of deaths occur in hospices,Not applicable
+Dying well,9,OHID Fingertips,294,,,,Sub_ICB,QOF_palliative_care_prevalence,Palliative care prevalence on primary care records (QOF),Not applicable
+Dying well,10,OHID Fingertips,90360,,,,LTLA,Winter_mortality_index,Winter mortality index (all ages),Lower is better
+Dying well,11,OHID Fingertips,90361,,,,LTLA,Winter_mortality_index_85_plus,Winter mortality index (aged 85+),Lower is better
+Life expectancy disease burden,1,OHID Fingertips,93505,Males,65,,UTLA,HLE_males_65,Healthy life expectancy at age 65 for males,Higher is better
+Life expectancy disease burden,2,OHID Fingertips,93505,Females,65,,UTLA,HLE_females_65,Healthy life expectancy at age 65 for females,Higher is better
+Life expectancy disease burden,9,OHID Fingertips,90362,Males,At birth,,UTLA,HLE_males_at_birth,Healthy life expectancy at birth for males,Higher is better
+Life expectancy disease burden,10,OHID Fingertips,90362,Females,At birth,,UTLA,HLE_females_at_birth,Healthy life expectancy at birth for females,Higher is better
+Life expectancy disease burden,11,OHID Fingertips,90825,Males,At birth,,UTLA,SII_HLE_inequality_males_at_birth,Inequality in healthy life expectancy at birth for males,Lower is better
+Life expectancy disease burden,12,OHID Fingertips,92031,Females,At birth,,UTLA,SII_HLE_inequality_females_at_birth,Inequality in healthy life expectancy at birth for females,Lower is better
+Life expectancy disease burden,15,OHID Fingertips,91102,Males,65,,LTLA,LE_males_65,Life expectancy at age 65 for males,Higher is better
+Life expectancy disease burden,16,OHID Fingertips,91102,Females,65,,LTLA,LE_females_65,Life expectancy at age 65 for females,Higher is better
+Life expectancy disease burden,17,OHID Fingertips,93190,Males,65,,LTLA,SII_LE_inequality_males_65,Inequality in healthy life expectancy at age 65 for males,Lower is better
+Life expectancy disease burden,18,OHID Fingertips,93190,Females,65,,LTLA,SII_LE_inequality_females_65,Inequality in healthy life expectancy at age 65 for females,Lower is better
+Life expectancy disease burden,23,OHID Fingertips,90366,Males,At birth,yes,LTLA,LE_males_at_birth,Life expectancy at birth for males,Higher is better
+Life expectancy disease burden,24,OHID Fingertips,90366,Females,At birth,yes,LTLA,LE_females_at_birth,Life expectancy at birth for females,Higher is better
+Life expectancy disease burden,25,OHID Fingertips,92901,Males,At birth,yes,LTLA,SII_LE_inequality_males_at_birth,Inequality in healthy life expectancy at birth for males,Lower is better
+Life expectancy disease burden,26,OHID Fingertips,92901,Females,At birth,yes,LTLA,SII_LE_inequality_females_at_birth,Inequality in healthy life expectancy at birth for females,Lower is better
+Life_course,,OHID Fingertips,90803,,,,UTLA,Children_in_care,"Number of children looked after (including adoption and care leavers) per 10,000 population aged 0-17",
+Living well 1,1,OHID Fingertips,30314,Persons,65+ years,,UTLA,Flu_65_plus,of those aged 65 and over receiving flu immunisation,Higher is better
+Living well 1,2,OHID Fingertips,30315,Persons,6months to 64 years,,UTLA,Flu_at_risk,of at risk individuals aged <65 receiving flu immunisation,Higher is better
+Living well 1,3,OHID Fingertips,30313,Persons,,,UTLA,PPV_immunisation,of people receiving vaccination for pneumococcal infection,Higher is better
+Living well 1,4,OHID dashboard,,Persons,75+ years,,LTLA,COVID_19_spring_booster,aged 75+ taking up the COVID-19 spring booster,Not applicable
+Living well 1,5,OHID Fingertips,92896,Females,13-14 years,,UTLA,HPV_coverage_13_14_female_2_doses,HPV coverage (2 doses) among females aged 13-14 years,Higher is better
+Living well 1,6,OHID Fingertips,92896,Males,13-14 years,,UTLA,HPV_coverage_13_14_male_2_doses,HPV coverage (2 doses) among males aged 13-14 years,Higher is better
+Living well 1,9,OHID Fingertips,92443,Persons,18+ years,,LTLA,Adult_smoking_prevalence,smoking prevalence among those aged 18+ years,Lower is better
+Living well 1,10,OHID Fingertips,219,Persons,,,LTLA,QOF_hypertension_prevalence,"Hypertension prevalence (recorded in primary care, QOF)",Not applicable
+Living well 1,11,OHID Fingertips,253,Persons,,,LTLA,QOF_COPD_prevalence,"COPD prevalence (recorded in primary care, QOF)",Not applicable
+Living well 1,12,OHID Fingertips,848,Persons,,,LTLA,QOF_depression_prevalence,"Depression prevalence (recorded in primary care, QOF)",Not applicable
+Living well 1,13,Office for National Statistics - Personal Wellbeing Estimates,,Persons,,,LTLA,Low_happiness_score,of people with a low happiness score,Not applicable
+Living well 1,14,Office for National Statistics - Personal Wellbeing Estimates,,Persons,,,LTLA,High_anxiety_score,of people with a high anxiety score,Not applicable
+Living well 1,16,OHID Fingertips,93881,Persons,18+ years,,LTLA,Obesity_18_plus,of adults aged 18 and over classified as obese,Lower is better
+Living well 1,17,OHID Fingertips,93014,Persons,19+ years,,LTLA,Physically_active_adults,of adults aged 19 and over who are physically active,Higher is better
+Living well 1,18,OHID Fingertips,93015,Persons,19+ years,,LTLA,Physically_inactive_adults,of adults aged 19 and over who are physically inactive,Lower is better
+Living well 1,19,OHID Fingertips,93439,Persons,16+ years,,LTLA,Walking_for_travel_adults,of adults aged 16 and over who walk for travel at least three days per week,Higher is better
+Living well 1,20,OHID Fingertips,93440,Persons,16+ years,,LTLA,Cycling_for_travel_adults,of adults aged 16 and over who cycle for travel at least three days per week,Higher is better
+Living well 1,24,Office for National Statistics,,,,,LTLA,Health_index_score,Health Index Score,Not applicable
+Living well 1,25,OHID Fingertips,93861,,,,LTLA,Air_pollution_attributable_mortality,proportion of deaths (mortality) attributable to air pollution,Not applicable
+Living well 1,26,OHID Fingertips,92906,,,,ICT level,Alcohol_specific_admissions,"alcohol specific emergency hospital admissions rate per 100,000 population",Lower is better
+Living well 1,27,OHID Fingertips,92778,,,,UTLA,Alcohol_consumption_over_14_units,of adults drinking more than 14 units of alcohol per week,Lower is better
+Living well 2,2,OHID Fingertips,40401,,,,ICT level,Under_75_CVD_mortality,"premature (under 75s) mortality rate for cardiovascular diseases per 100,000 population",Lower is better
+Living well 2,3,OHID Fingertips,40701,,,,ICT level,Under_75_respiratory_mortality,"premature (under 75s) mortality rate for respiratory diseases per 100,000 population",Lower is better
+Living well 2,4,OHID Fingertips,40501,,,,ICT level,Under_75_cancer_mortality,"premature (under 75s) mortality rate for cancer per 100,000 population",Lower is better
+Living well 2,5,OHID Fingertips,93582,,,,UTLA,Under_75_excess_deaths_SMI,excess premature (under 75s) mortality among adults with serious mental illness (SMI),Lower is better
+Living well 2,6,OHID Fingertips,92432,,,,LTLA,Drug_related_deaths,"rate of drug related deaths per 100,000 population",Lower is better
+Living well 2,7,OHID Fingertips,41001,,,,ICT level,Suicide_undetermined_injury_mortality,"rate of suicide and undetermined injury deaths per 100,000 population aged 10 years and over",Lower is better
+Living well 2,11,OHID Fingertips,22001,,,,LTLA,Cancer_screening_breast,Cancer screening coverage for breast cancer,Higher is better
+Living well 2,12,OHID Fingertips,91720,,,,LTLA,Cancer_screening_bowel,Cancer screening coverage for bowel cancer,Higher is better
+Living well 2,13,OHID Fingertips,93671,,,,LTLA,Cancers_diagnosed_at_stage_1_and_2,of cancers diagnosed at stage 1 or 2,Higher is better
+Living well 2,14,OHID Fingertips,91347,,,,Sub_ICB,TWW_new_cancer_diagnoses,of new cancer diagnoses through the Two Week Wait pathway.,Higher is better
+Living well 2,18,OHID Fingertips,93560,,,,LTLA,Cancer_screening_cervical_cancer_2549,Cancer screening coverage for cervical cancer among those aged 25-49 years,Higher is better
+Living well 2,19,OHID Fingertips,91734,,,,UTLA,NHS_Health_Check_uptake,of people taking up an NHS Health Check following invitation,Higher is better
+Living well 2,20,NHS England,,,,,Sub_ICB,Health_Check_uptake_LD,of adults with learning disability taking up health check following invitation,Higher is better
+Living well 2,21,NHS England,,,,,Sub_ICB,Health_Check_uptake_SMI,of adults with serious mental illness taking up a physical health check,Higher is better
+Living well 2,25,OHID Fingertips,21001,,,,ICT level,Emergency_admissions_self_harm,"emergency hospital admissions for self-harm rate per 100,000 population",Lower is better
+Living well 2,26,OHID Fingertips,92302,,,,LTLA,Emergency_admissions_COPD,"emergency hospital admissions for COPD rate per 100,000 population aged 35+ years",Lower is better
+Living well 2,27,OHID Fingertips,93574,,,,CCG,Emergency_admissions_pneumonia,"emergency hospital admissions for pneumonia rate per 100,000 population",Lower is better
+Living well 2,28,OHID Fingertips,93573,,,,CCG,Emergency_admissions_asthma,"emergency hospital admissions for asthma in adults per 100,000 population",Lower is better
+Starting well,1,OHID Fingertips,93203,Persons,16-17 year olds,,UTLA,NEET,"not in education, employment, or training (NEET) aged 16-17 years",Lower is better
+Starting well,2,LG Inform,,Persons,17-18 year olds,,UTLA,Care_leavers_in_EET,"care leavers aged 17-18 in education, employment, or training",Not applicable
+Starting well,3,OHID Fingertips,90832,Persons,0-4 years,,ICT level,Hospital_admissions_uninentional_deliberate_harm_under_five,"rate of hospital admissions for uninentional and deliberate harm per 10,000 aged 0-4",Lower is better
+Starting well,4,OHID Fingertips,90810,Persons,0-19 years,,UTLA,Hospital_admissions_asthma_under_19,"rate of hospital admissions for asthma per 100,000 population aged 0-19 years",Lower is better
+Starting well,5,OHID Fingertips,90813,Persons,10-24 year,,ICT level,Hospital_admissions_self_harm_10_24,"rate of hospital admissions for self-harm per 100,000 aged 10-24 years",Lower is better
+Starting well,9,OHID Fingertips,92517,Females,All ages,Yes,UTLA,Breastfeeding_six_weeks,of women breastfeeding at 6-8 weeks after birth.,Higher is better
+Starting well,10,OHID Fingertips,30311,Persons,4-5 years,Yes,UTLA,MMR_two_dose_5_years,"of children aged 5 years completing two doses of the Measles, Mumps, Rubella (MMR) vaccine",Higher is better
+Starting well,11,OHID Fingertips,93431,Persons,2-2.5 years,,UTLA,Expected_communication_at_2,of children aged 2-2.5 years achieving expected communication skills,Higher is better
+Starting well,12,OHID Fingertips,93563,Persons,5 years,,LTLA,Obvious_tooth_decay_at_5,of children aged 5 years with visually obvious dentinal decay.,Lower is better
+Starting well,13,OHID Fingertips,90321,Persons,Year 6,yes,ICT level,Healthy_weight_year_6,of children in year 6 who are a healthy weight,Higher is better
+Starting well,16,OHID Fingertips,92196,Persons,At birth,,LTLA,Infant_mortality_rate,"rate of infant mortality per 1,000 live births",Lower is better
+Starting well,17,OHID Fingertips,93085,Persons,All ages,Yes,LTLA,SATOD,of women smoking at the time of delivery of their baby,Lower is better
+Starting well,18,OHID Fingertips,91743,Persons,At birth,,LTLA,Premature_birth_rate,"rate of premature births (<37 week gestation) per 1,000 live births",Lower is better
+Starting well,19,OHID Fingertips,20101,Persons,At birth,,LTLA,Low_birthweight,of at term births (37+ week gestation) which are a low birthweight (<2.5kg),Lower is better
